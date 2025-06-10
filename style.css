@@ -20,7 +20,7 @@ section{
 
 }
 img{
-    width: 60%;
+    width: 100%;
 }
 body{
     color: var(--text-color);
@@ -103,12 +103,12 @@ header {
     font-weight: 400;
     margin: 0.7rem 0 1rem;
 }
-.about-image{
+.plane-img {
     width: 300px;
     height: 300px;
     margin-top: 2rem;
 }
-.about-image img {
+.plane-img img {
     width: 100%;
     height: 100%;
     border-radius: 50%;
